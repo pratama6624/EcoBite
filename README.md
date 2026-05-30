@@ -2,10 +2,6 @@
 
 > EcoBite? "Aplikasi ini membantu siapa pun memahami apa yang mereka konsumsi setiap hari dan Membantu pengguna membuat keputusan konsumsi yang lebih baik dalam hitungan detik"
 
-## Fokus:
-
-EcoBite membantu pengguna memahami keamanan dan kandungan makanan kemasan sebelum dikonsumsi.
-
 ## Fokus utama EcoBite:
 
 - Membaca komposisi makanan dengan cepat.
@@ -13,6 +9,7 @@ EcoBite membantu pengguna memahami keamanan dan kandungan makanan kemasan sebelu
 - Memberikan peringatan berdasarkan kondisi pengguna.
 - Menjelaskan bahan makanan dalam bahasa yang mudah dipahami.
 - Membantu pengguna mengambil keputusan sebelum membeli atau mengonsumsi produk.
+- Berjalan secara offline maupun online dan proses on-device
 
 ## Masalah yang Diselesaikan:
 
