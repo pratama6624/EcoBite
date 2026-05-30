@@ -2,7 +2,7 @@
 
 > EcoBite? "Aplikasi ini membantu siapa pun memahami apa yang mereka konsumsi setiap hari dan Membantu pengguna membuat keputusan konsumsi yang lebih baik dalam hitungan detik"
 
-## Fokus utama EcoBite:
+## Fokus utama:
 
 - Membaca komposisi makanan dengan cepat.
 - Mengidentifikasi bahan yang perlu diperhatikan.
@@ -25,7 +25,7 @@
 - **"Tambahan"** Orang dengan alergi, penyakit kronis, atau pantangan makanan.
 - **"Aksesibilitas"** Lansia yang kesulitan membaca label makanan.
 
-## Core Features:
+## Fitur utama:
 
 - **"Ingredient Scanner"** Scan komposisi makanan menggunakan kamera.
 - **"Personal Restriction Profile"** Alergi, penyakit, pantangan, dan preferensi nutrisi.
@@ -55,5 +55,6 @@ Pengguna berdiri di supermarket.
 2. Scan komposisi.
 3. Mengetahui resikonya.
 4. Ambil keputusan.
+5. Just it (done)
 
 Semua selesai dalam beberapa detik.
