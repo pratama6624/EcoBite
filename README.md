@@ -1,19 +1,14 @@
 # EcoBite: Eat Better
 
-> "Aplikasi ini membantu siapa pun memahami apa yang mereka konsumsi setiap hari."
+> EcoBite? "Aplikasi ini membantu siapa pun memahami apa yang mereka konsumsi setiap hari dan Membantu pengguna membuat keputusan konsumsi yang lebih baik dalam hitungan detik"
 
 ## Visi:
 
-EcoBite membantu pengguna memahami keamanan dan kandungan makanan kemasan sebelum dikonsumsi.
-
-Bukan pengganti dokter.
-Bukan aplikasi diet.
-Bukan aplikasi fitness.
-Bukan chatbot AI kesehatan.
-
-## Fokus:
-
-**Membantu pengguna membuat keputusan konsumsi yang lebih baik dalam hitungan detik.**
+- EcoBite membantu pengguna memahami keamanan dan kandungan makanan kemasan sebelum dikonsumsi.
+- Bukan pengganti dokter.
+- Bukan aplikasi diet.
+- Bukan aplikasi fitness.
+- Bukan chatbot AI kesehatan.
 
 ## Masalah yang Diselesaikan:
 
