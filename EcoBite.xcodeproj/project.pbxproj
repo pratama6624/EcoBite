@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		410464D12FCA9F3E0029E93D /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 410464CF2FCA9F350029E93D /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		410464C12FCA9E120029E93D /* EcoBite.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EcoBite.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		410464CF2FCA9F350029E93D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -34,6 +39,7 @@
 			children = (
 				410464C32FCA9E120029E93D /* EcoBite */,
 				410464C22FCA9E120029E93D /* Products */,
+				410464CF2FCA9F350029E93D /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				410464D12FCA9F3E0029E93D /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
