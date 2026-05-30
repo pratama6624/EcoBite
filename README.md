@@ -24,34 +24,18 @@ Bukan chatbot AI kesehatan.
 
 ## Target Pengguna:
 
-### Utama
-Orang yang ingin hidup lebih sehat dan memahami apa yang mereka konsumsi setiap hari.
-
-### Sekunder
-Orang yang sedang menjalani diet atau pengaturan nutrisi.
-
-### Tambahan
-Orang dengan alergi, penyakit kronis, atau pantangan makanan.
-
-### Aksesibilitas
-Lansia yang kesulitan membaca label makanan.
+- **Utama** Orang yang ingin hidup lebih sehat dan memahami apa yang mereka konsumsi setiap hari.
+- **Sekunder** Orang yang sedang menjalani diet atau pengaturan nutrisi.
+- **Tambahan** Orang dengan alergi, penyakit kronis, atau pantangan makanan.
+- **Aksesibilitas** Lansia yang kesulitan membaca label makanan.
 
 ## Core Features:
 
-### Ingredient Scanner
-Scan komposisi makanan menggunakan kamera.
-
-### Personal Restriction Profile
-Alergi, penyakit, pantangan, dan preferensi nutrisi.
-
-### Ingredient Explanation
-Menjelaskan arti dan risiko suatu bahan dalam bahasa sederhana.
-
-### Risk Summary
-Safe • Caution • Warning
-
-### Nutrition Budget Widget
-Monitoring gula dan natrium harian.
+- **Ingredient Scanner** Scan komposisi makanan menggunakan kamera.
+- **Personal Restriction Profile** Alergi, penyakit, pantangan, dan preferensi nutrisi.
+- **Ingredient Explanation** Menjelaskan arti dan risiko suatu bahan dalam bahasa sederhana.
+- **Risk Summary** Safe • Caution • Warning
+- **Nutrition Budget Widget** Monitoring gula dan natrium harian.
 
 ## Batasan Fitur (Skip this):
 
