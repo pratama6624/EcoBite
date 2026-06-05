@@ -1,5 +1,7 @@
 # EcoBite: Eat Better
 
+<img width="1210" height="675" alt="Image" src="https://github.com/user-attachments/assets/a6fd75d4-91ea-4edb-8286-a264dd8afb48" />
+
 > EcoBite? "Aplikasi ini membantu siapa pun memahami apa yang mereka konsumsi setiap hari dan Membantu pengguna membuat keputusan konsumsi yang lebih baik dalam hitungan detik"
 
 ## Fokus utama:
